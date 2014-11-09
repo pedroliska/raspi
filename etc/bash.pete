@@ -1,0 +1,21 @@
+##################################
+
+alias h=ayuda.sh
+alias a=ayuda.sh
+alias p=omxplayer
+alias pa='find -type f -exec omxplayer {} \;'
+alias y=yt
+alias ll='ls -al'
+alias l=ll
+alias k='cd /mnt/abs/tv/kids'
+alias m='sudo mount -a'
+
+alias bsource='source /etc/bash.pete && cd -'
+
+alias gs='git status'
+alias ga='git add -A'
+alias gc='git commit -m'
+
+##################################
+m
+k

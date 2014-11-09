@@ -1,0 +1,10 @@
+Hola pitufas! Esta es la lista de comandos:
+
+ayuda = esta ayuda
+h  = ayuda
+a  = ayuda
+p  = play un archivo. Por ejemplo "p Frozen.avi"
+pa = play todos los archivos en el directorio que estas
+y  = browse youtube
+l  = listar archivos
+k  = ir a directorio tv/kids en abs
