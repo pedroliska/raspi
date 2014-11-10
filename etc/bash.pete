@@ -6,7 +6,7 @@ alias p=omxplayer
 alias pa='find -type f -exec omxplayer {} \;'
 alias y=yt
 alias ll='ls -al'
-alias l=ll
+alias l='ls -l'
 alias k='cd /mnt/abs/tv/kids'
 alias m='sudo /bin/mount -a'
 
@@ -19,3 +19,4 @@ alias gc='git commit -m'
 ##################################
 m
 k
+l
