@@ -8,3 +8,5 @@ pa = play todos los archivos en el directorio que estas
 y  = browse youtube
 l  = listar archivos
 k  = ir a directorio tv/kids en abs
+t  = ir a directorio torrents en abs
+m  = montar el directorio de ABS
