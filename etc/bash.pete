@@ -11,14 +11,21 @@ alias ll='ls -al'
 alias l='ls'
 alias bsource='source /etc/bash.pete && cd -'
 
-alias k='cd /mnt/abs/tv/kids'
-alias t='cd /mnt/abs/nobackup/torrents'
+alias dk='c /mnt/abs/tv/kids'
+alias k='dk'
+alias dt='c /mnt/abs/nobackup/torrents'
+alias dm='c /mnt/abs/tv/movies'
 
 alias gs='git status'
 alias ga='git add -A'
 alias gc='git commit -m'
 
 ##################################
+function c () {
+  cd $1
+  l
+}
+
+##################################
 m
-k
-l
+dk
