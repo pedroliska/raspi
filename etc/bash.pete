@@ -5,7 +5,7 @@ alias a=ayuda.sh
 alias p=omxplayer
 alias pa='find -type f -exec omxplayer {} \;'
 alias y=yt
-alias m='sudo /bin/mount -a'
+alias m='sudo /bin/mount -a && dk'
 
 alias ll='ls -al'
 alias l='ls'
@@ -28,4 +28,4 @@ function c () {
 
 ##################################
 m
-dk
+
